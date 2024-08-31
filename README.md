@@ -9,7 +9,7 @@ Essas habilidades incluem: **Resolução de Problemas**, **Comunicação**, **Tr
 Encontrei no Curso de **Cibersecurity Fundamentals** da Google um ótimo ponta pé para me ingressar no mundo de cibersegurança, então resolvi continuar e adquirir o curso completo.
 Pretendo realizar **laboratórios práticos** após o término do curso e concluir o Programa da Escola da Nuvem chamado AWS re/Start. Aonde irei estudar sobre **Computação em Nuvem(AWS)** e posteriormente estudar para certificação da **CompTIA Security +** e **AWS Certified Cloud Practitioner**.
  
-| Módulos     | Conhecimento Adquirido|
+| Cursos     | Conhecimento Adquirido|
 |:-----------|-----------:|
 | Gerenciar Riscos de Segurança | `NIST`, `CISSP`, `RMF`, `TRIAD CIA`, `PLAYBOOKS`, `AUDITORIA`, `RESPOSTAS A INCIDENTES` |
 | Segurança de Redes | `TCP/IP`, `VPN`, `PROXY`, `SECURITY HARDENING`, `DMZ`, `SUB-REDE`, `SECURITY ZONES` `NETWORK SECURITY` `SIEM`|
