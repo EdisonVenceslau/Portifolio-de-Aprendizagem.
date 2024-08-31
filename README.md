@@ -3,7 +3,7 @@ Neste portifólio inserirei todo conhecimento e habilidades adquiridas pelo [cur
 ##
 # Agradeço pela prensença!
 Meu nome é **Edison** e atualmente estudo sobre **Cibersegurança** em busca de me especializar na frente de **Soc Analyst** e escolhi essa frente pois quero me tornar um **Analista de Cibersegurança.**
-Trabalhei durante dois anos como Auxiliar Administrativo no Banco do Nordeste, aonde desenvolvi habilidades transferíveis que além da paixão pela área de Segurança da Informação, serviram para que eu escolhesse me especializar na área.
+Trabalhei durante dois anos como Auxiliar Administrativo no Banco do Nordeste, aonde desenvolvi habilidades transferíveis que além da paixão pela área de cibersegurança, serviram para que eu escolhesse me especializar na área.
 Essas habilidades incluem: **Resolução de Problemas**, **Comunicação**, **Trabalho em equipe/Atitudes individuais** e **Vontade de Aprender**.
 #
 Encontrei no Curso de **Cibersecurity Fundamentals** da Google um ótimo ponta pé para me ingressar no mundo de cibersegurança, então resolvi continuar e adquirir o curso completo.
