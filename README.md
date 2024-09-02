@@ -1,7 +1,7 @@
 # Portifolio-de-Aprendizagem.
 Neste portifólio inserirei todo conhecimento e habilidades adquiridas pelo [curso de Cibersecurity Professional da Google](https://www.coursera.org/professional-certificates/google-cybersecurity).
 ##
-# Agradeço pela prensença!
+# Agradeço pela presença!
 Meu nome é **Edison** e atualmente estudo sobre **Cibersegurança** em busca de me especializar na frente de **Soc Analyst** e escolhi essa frente pois quero me tornar um **Analista de Cibersegurança.**  
 
 Trabalhei durante dois anos como Auxiliar Administrativo no Banco do Nordeste, aonde desenvolvi habilidades transferíveis que além da paixão pela área de cibersegurança, serviram para que eu escolhesse me especializar na área.
