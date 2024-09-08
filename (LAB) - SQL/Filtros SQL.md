@@ -1,15 +1,21 @@
 
 ![FiltrosSQL](https://github.com/user-attachments/assets/1f65cacc-2c31-4284-b334-4c8cf04c80cc)
 ![ComandoFiltros](https://github.com/user-attachments/assets/73fc3bab-9762-4a39-8fea-fcbea2a26bc3)
+##
 ![Os2Filtros](https://github.com/user-attachments/assets/211d1aef-ccd4-49b9-9b8a-c66dfd781daa)
 ![ConsultaFiltroOS2](https://github.com/user-attachments/assets/32780013-b416-41ac-9111-e6fd938b204c)
+##
 ![FinanceAndSalesQuery](https://github.com/user-attachments/assets/71a93937-ab84-492b-b777-7200d59a93bb)
 ![ComandoQueryFinanceAndSales](https://github.com/user-attachments/assets/cb6a8de2-e9e3-4273-a23c-d9150c8d56b0)
+##
 ![Between](https://github.com/user-attachments/assets/3ab2b9e3-3549-42a2-adff-58e624e7c55b)
 ![betweenQuery](https://github.com/user-attachments/assets/9c19afb8-8acc-455e-bb01-b4df9949e6d3)
+##
 ![logInMenorQue](https://github.com/user-attachments/assets/48f765cf-e138-4ab9-a34b-93131ae9f299)
 ![QueryMenorQue](https://github.com/user-attachments/assets/b45cb7c7-8036-4426-b7e0-766c854dc3ac)
+##
 ![FinanceORSales](https://github.com/user-attachments/assets/60a4bc94-8aca-443a-b5f0-b6f8295b9207)
 ![FinanceORSalesQuery](https://github.com/user-attachments/assets/90f0f374-e92f-430c-9c43-4fafc92534fe)
+##
 ![East](https://github.com/user-attachments/assets/41f66e5e-b7db-488e-9be4-41414259ecb7)
 ![EastQuery](https://github.com/user-attachments/assets/0ce63fbd-fab5-4a58-8a62-f8049b2d4abe)
