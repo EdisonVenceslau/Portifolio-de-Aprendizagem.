@@ -8,3 +8,5 @@
 ![DataOS](https://github.com/user-attachments/assets/3bc36966-183f-4d41-aa4b-c6fb44776351)
 ![Captura de tela 2024-09-02 164542](https://github.com/user-attachments/assets/0b7dc52a-897a-4b69-bac2-b53853906ed0)
 ![tentativa login](https://github.com/user-attachments/assets/8d8bcc30-7cd1-4ab6-ad97-a2cdc2f6707a)
+![2PartLogInAttempts](https://github.com/user-attachments/assets/711d4bf6-8cbc-4975-a108-0c346810ccb9)
+![ComandoLog](https://github.com/user-attachments/assets/e11dd37c-1aa9-4737-a9d8-028232881285)
