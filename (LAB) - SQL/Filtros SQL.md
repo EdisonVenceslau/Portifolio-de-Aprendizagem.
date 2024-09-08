@@ -5,3 +5,7 @@
 ![ConsultaFiltroOS2](https://github.com/user-attachments/assets/32780013-b416-41ac-9111-e6fd938b204c)
 ![FinanceAndSalesQuery](https://github.com/user-attachments/assets/71a93937-ab84-492b-b777-7200d59a93bb)
 ![ComandoQueryFinanceAndSales](https://github.com/user-attachments/assets/cb6a8de2-e9e3-4273-a23c-d9150c8d56b0)
+![Between](https://github.com/user-attachments/assets/3ab2b9e3-3549-42a2-adff-58e624e7c55b)
+![betweenQuery](https://github.com/user-attachments/assets/9c19afb8-8acc-455e-bb01-b4df9949e6d3)
+![logInMenorQue](https://github.com/user-attachments/assets/48f765cf-e138-4ab9-a34b-93131ae9f299)
+![QueryMenorQue](https://github.com/user-attachments/assets/b45cb7c7-8036-4426-b7e0-766c854dc3ac)
